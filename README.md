@@ -1,4 +1,4 @@
 # ShopFaceRecClientConcept
-1 Делает парти фото лиц  
-2 Предварительно распазнаёт лица и раскладывает по папкам в двух вариантах в зависимоти от угла поворота   
-3 Распазнаёт лица из базы плохих людей  
+1 Takes batch photos of faces  
+2 Preliminarily recognizes faces and arranges them into folders in two versions depending on the angle of rotation  
+3 Recognizes faces from the base of bad people  
